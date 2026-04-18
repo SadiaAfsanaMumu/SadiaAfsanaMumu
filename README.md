@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="[https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eHV6N2FqZ200enBsZ2g2ZnRoNm9iYmF6ZnRva2F2bGw5aWpxcTZyNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QzF0Bp09v4abTr7928/giphy.gif
-)" width="300" alt="coding gif"/>
+  <img src="[https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eHV6N2FqZ200enBsZ2g2ZnRoNm9iYmF6ZnRva2F2bGw5aWpxcTZyNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QzF0Bp09v4abTr7928/giphy.gif)" width="300" alt="coding gif"/>
   
   # Hi there, I'm Afsana 👋
 
