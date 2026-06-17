@@ -1,6 +1,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/QzF0Bp09v4abTr7928/giphy.gif" width="300" alt="coding gif"/>
-  # Hi there, I'm Shahajadi Sadia Afsana 👋
+
+  
+  *Hi there, I'm Shahajadi Sadia Afsana 👋*
 
   *Data Analyst · Former Business Analyst · Prospective Researcher · ML Enthusiast ·*
   🌐 **[Portfolio](https://sadiaafsana138.github.io/)**
